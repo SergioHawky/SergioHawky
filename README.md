@@ -1,16 +1,61 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header" width="100%" alt="banner"/>
+</p>
 
-<!--
-**SergioHawky/SergioHawky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Sergiy</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergiy-ilkiv-7776b7245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_sergios7_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sergioilkiv14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About me
+
+I'm a **42 Lisboa** student, currently building a solid foundation in **C** and **systems programming**, while exploring different areas to find where I want to specialize.
+
+- 🎓 Cadet at **42 Lisboa**
+- 🎮 In love with **game development** — it's what I want to do with my life
+- 🧠 Exploring engines and tools to bring that goal closer, alongside my systems programming background
+- 🚀 Long-term goal: build and ship my own games
+
+---
+
+## 🎮 Right Now
+
+Working on my **first game**: **One Night Alone**
+
+<p align="center">
+  <a href="https://github.com/SergioHawky/One_Night_Alone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioHawky&repo=One_Night_Alone&theme=holi" alt="One Night Alone repo card" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,bash" />
+
+**Tools & Engines**
+
+<img src="https://skillicons.dev/icons?i=unrealengine,godot,blender,linux,vscode,git,github" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioHawky&show_icons=true&theme=holi" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioHawky&layout=compact&langs_count=8&theme=holi" height="165" />
+</p>
