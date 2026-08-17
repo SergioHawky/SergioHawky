@@ -31,13 +31,7 @@ I'm a **42 Lisboa** student, currently building a solid foundation in **C** and 
 
 ## 🎮 Right Now
 
-Working on my **first game**: **One Night Alone**
-
-<p align="center">
-  <a href="https://github.com/SergioHawky/One_Night_Alone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioHawky&repo=One_Night_Alone&theme=holi" alt="One Night Alone repo card" />
-  </a>
-</p>
+Working on my **first game**: **[One Night Alone](https://github.com/SergioHawky/One_Night_Alone)**
 
 ---
 
@@ -50,12 +44,3 @@ Working on my **first game**: **One Night Alone**
 **Tools & Engines**
 
 <img src="https://skillicons.dev/icons?i=unrealengine,godot,blender,linux,vscode,git,github" />
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioHawky&show_icons=true&theme=holi" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioHawky&layout=compact&langs_count=8&theme=holi" height="165" />
-</p>
