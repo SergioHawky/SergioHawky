@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header" width="100%" alt="banner"/>
+  <img src="1-ezgif.com-crop.gif" width="100%" alt="Developer Banner Animado"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Sergiy</h1>
