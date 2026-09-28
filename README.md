@@ -31,7 +31,7 @@ I'm a **42 Lisboa** student, currently building a solid foundation in **C** and 
 
 ## 🎮 Right Now
 
-Working on my **first game**: **[One Night Alone](https://github.com/SergioHawky/One_Night_Alone)**
+Currently developing my first game: **One Night Alone** *(In active development / Private repository)*
 
 ---
 
