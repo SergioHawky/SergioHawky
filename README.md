@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/sergiy-ilkiv-7776b7245">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_sergios7_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:sergioilkiv14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -39,7 +36,7 @@ Currently developing my first game: **One Night Alone** *(In active development 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,postgres,bash" />
 
 **Tools & Engines**
 
